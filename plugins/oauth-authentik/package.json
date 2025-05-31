@@ -1,0 +1,20 @@
+{
+  "name": "oauth-authentik",
+  "title": "Blessing\\OAuth\\Authentik::general.title",
+  "version": "0.2.5",
+  "description": "Blessing\\OAuth\\Authentik::general.description",
+  "author": "GPlane",
+  "url": "",
+  "namespace": "Blessing\\OAuth\\Authentik",
+  "require": {
+    "blessing-skin-server": "^5|^6",
+    "oauth": "^1.0.0"
+  },
+  "enchants": {
+    "icon": {
+      "fa": "openid",
+      "faType": "fab",
+      "bg": "success"
+    }
+  }
+}
